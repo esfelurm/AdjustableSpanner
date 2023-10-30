@@ -67,6 +67,33 @@ A good tool for Red/Blue team work, which you can develop or use yourself
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align:center; border-top: 1px solid black;">Termux &#10004; Windows &#10004; Linux &#10004;</td>
+    <td colspan="2" style="text-align:center; border-top: 1px solid black;">Termux ✅ Windows ✅ Linux ✅;</td>
   </tr>
 </table>
+
+
+## Required modules 
+
+`pip install {name}`
+
+```
+regex
+ipranges
+colorama
+concurrent
+multiprocessing
+urllib3
+bs4
+pyisemail
+requests
+```
+
+## Command Install
+
+```
+git clone https://github.com/esfelurm/AdjustableSpanner
+cd AdjustableSpanner
+python AdjustableSpanner.py
+```
+
+bye Bye 

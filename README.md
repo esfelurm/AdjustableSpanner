@@ -9,7 +9,7 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 
 <li>Grabbers</li>
 
-- Grabber Sites COM By Dates Updated Daily Result
+- Grabber Sites COM By Dates Updated Daily Result 
 
 - Grabber Sites By Domain + Country
 
@@ -60,3 +60,13 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 - Mass Change User+Pass Aws + Send In Your Mail 
 
 </ol>
+
+<table border="1">
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center; border-top: 1px solid black;">Termux &#10004; Windows &#10004; Linux &#10004;</td>
+  </tr>
+</table>

@@ -47,8 +47,16 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 
 <li>Laravel</li>
 
-ks
+- Auto Exploit Cookies BlueMail
 
+- Auto Check Bluemail sites/ip
 
+- Auto Check Laravel + Apache Symfony + Wordpress site/ip
+
+- Auto Filter Mailist Hotmail, Yahoo, Gmail
+
+- Mass Check Sengrid Limit + Send Test In Your Mail
+
+- Mass Change User+Pass Aws + Send In Your Mail 
 
 </ol>

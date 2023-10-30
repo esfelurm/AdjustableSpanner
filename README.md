@@ -7,7 +7,7 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 
 <ol>
 
-<li>Grabbers</li>
+<h4><li>Grabbers</li></h4>
 
 - Grabber Sites COM By Dates Updated Daily Result 
 
@@ -25,13 +25,13 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 
 - Leakix Grabber With Query/Dork And API
 
-<li>Shells</li>
+<h4><li>Shells</li></h4>
 
 - Shell/Mailer Finder
 
 - Shell Scaner
 
-<li>Ips Opt</li>
+<h4><li>Ips Opt</li></h4>
 
 - Range IP From IPS List
 
@@ -45,7 +45,7 @@ A good tool for Red/Blue team work, which you can develop or use yourself
 
 - Remove Duplicate From List
 
-<li>Laravel</li>
+<h4><li>Laravel</li></h4>
 
 - Auto Exploit Cookies BlueMail
 
@@ -67,7 +67,7 @@ A good tool for Red/Blue team work, which you can develop or use yourself
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align:center; border-top: 1px solid black;">Termux ✅ Windows ✅ Linux ✅;</td>
+    <td colspan="2" style="text-align:center; border-top: 1px solid black;">Termux ✅ Windows ✅ Linux ✅</td>
   </tr>
 </table>
 

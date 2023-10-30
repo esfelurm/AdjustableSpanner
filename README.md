@@ -2,7 +2,7 @@
 
 # Adjustable Spanner
 
-A good tool for Red/Blue team work, which you can develop or use yourself 
+A good tool for Red team work, which you can develop or use yourself 
 
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/104654028/279126358-25248ac7-1fd8-4242-98e2-4d7c86fb669a.png">
